@@ -7,7 +7,7 @@
 
 -  Ask me about    : **github**
 
--  How to reach me : **jomonjoyunofficial@gmail.com**
+-  How to reach me : **jomonh.dev@gmail.com**
 
 -  My CV : [https://jomonh.github.io/portfolio/images/cv.pdf](https://jomonh.github.io/portfolio/images/cv.pdf)
 
