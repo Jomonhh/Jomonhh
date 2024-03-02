@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jomonh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jomonh" height="50" width="60" /></a>
+<a href="https://linkedin.com/in/jomonh" target="blank"><img align="center" src="https://github.com/Jomonhh/Jomonhh/blob/main/linkedin.png" alt="jomonh" height="80" width="200" /></a>
 </p>
 
 
