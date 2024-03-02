@@ -1,17 +1,17 @@
-<a href="https://jomonh.github.io/portfolio/"><img src="https://github.com/Jomonh/Jomonh/blob/main/Banner.png"></a>
+<a href="https://jomonhh.github.io/portfolio/"><img src="https://github.com/Jomonhh/Jomonhh/blob/main/Banner.png"></a>
 
 <h1 align="center">Hi, I'm Jomon 🧑🏻‍💻</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 -  I’m currently learning   **MERN Stack**
 
--  All of my projects are available at : [https://jomonh.github.io/portfolio/](https://jomonh.github.io/portfolio/)
+-  All of my projects are available at : [https://jomonh.github.io/portfolio/](https://jomonhh.github.io/portfolio/)
 
 -  Ask me about    : **github**
 
 -  How to reach me : **jomonh.dev@gmail.com**
 
--  My CV : [https://jomonh.github.io/portfolio/images/cv.pdf](https://jomonh.github.io/portfolio/images/cv.pdf)
+-  My CV : [https://jomonhh.github.io/portfolio/images/cv.pdf](https://jomonhh.github.io/portfolio/images/cv.pdf)
 
 
 <a href="https://linktr.ee/jomonh"><img align="right" width="100%" height="100%" src="https://github.com/Jomonh/Jomonh/blob/main/programming.gif"></a>
