@@ -5,16 +5,16 @@
 
 -  I’m currently learning   **MERN Stack**
 
--  All of my projects are available at : [https://jomonh.github.io/portfolio/](https://jomonhh.github.io/portfolio/)
+-  All of my projects are available at : [https://jomonhH.github.io/portfolio/](https://jomonhh.github.io/portfolio/)
 
 -  Ask me about    : **github**
 
--  How to reach me : **jomonh.dev@gmail.com**
+-  How to reach me : **info.jomon@gmail.com**
 
 -  My CV : [https://jomonhh.github.io/portfolio/images/cv.pdf](https://jomonhh.github.io/portfolio/images/cv.pdf)
 
 
-<a href="https://linktr.ee/jomonh"><img align="right" width="100%" height="100%" src="https://github.com/Jomonh/Jomonh/blob/main/programming.gif"></a>
+<a href="https://linktr.ee/jomonh"><img align="right" width="100%" height="100%" src="https://github.com/Jomonhh/Jomonhh/blob/main/programming.gif"></a>
 
 
 
