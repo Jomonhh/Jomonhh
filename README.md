@@ -14,7 +14,7 @@
 -  My CV : [https://jomonhh.github.io/portfolio/images/cv.pdf](https://jomonhh.github.io/portfolio/images/cv.pdf)
 
 
-<a href="https://linktr.ee/jomonh"><img align="right" width="100%" height="100%" src="https://github.com/Jomonhh/Jomonhh/blob/main/programming.gif"></a>
+<a href="https://linktr.ee/jomonh"><img align="center" width="100%" height="100%" src="https://github.com/Jomonhh/Jomonhh/blob/main/programming.gif"></a>
 
 
 
