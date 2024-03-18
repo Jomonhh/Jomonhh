@@ -29,22 +29,21 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <pre>
  
- • **HTML** • **CSS** • **JavaScript**
+ • **HTML**   • **CSS**   • **JavaScript**
   
- • **Java**       • **C & C++**
+ • **Java**          • **C & C++**
    
- • **Python**     • **Python Django** |
+ • **Python**        • **Python Django** 
 
- • **Tailwind**   • **Bootstrap**
+ • **Tailwind**      • **Bootstrap**
 
- • **MongoDB**    • **Express**
+ • **MongoDB**       • **Express**
+ 
+ • **React**         • **Node.js**
 
- • **React**      • **Node.js**
+ • **Redux**         • **MySql**
 
- • **Redux**      • **MySql**
-
- • **Php**        • **Git & GitHub**
-
+ • **Php**           • **Git & GitHub**
   </pre>
 
 <h3 align="left">Support Me:</h3>
