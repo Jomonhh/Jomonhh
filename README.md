@@ -28,22 +28,21 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-
-- **HTML** - **CSS** - **JavaScript**
-
-- **Java**        - **C & C++**
+  **HTML** |**CSS** | **JavaScript**
   
-- **Python**      - **Python Django**
+  **Java** | **C & C++**
+  
+  **Python** | **Python Django** |
 
-- **Tailwind**    - **Bootstrap**
+  **Tailwind** | **Bootstrap**
 
-- **MongoDB**     - **Express**
+  **MongoDB** | **Express**
 
-- **React**       - **Node.js**
+  **React** | **Node.js**
 
-- **Redux**       - **MySql**
+  **Redux** | **MySql**
 
-- **Php**         - **Git & GitHub**
+  **Php** | **Git & GitHub**
 
 <h3 align="left">Support Me:</h3>
 <p><a href="https://www.buymeacoffee.com/Jomonh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Jomonh" /></a></p><br><br>
