@@ -29,7 +29,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <pre>
 
- • **HTML**         • **CSS** 
+ • **HTML**          • **CSS** 
  
  • **JavaScript**    • **Figma**
   
