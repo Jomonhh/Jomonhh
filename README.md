@@ -54,6 +54,8 @@
  • **Redux**         • **MySql**
 
  • **Php**           • **Git & GitHub**
+
+ • **VS Code**
   </pre>
 
 <h3 align="left">Support Me:</h3>
