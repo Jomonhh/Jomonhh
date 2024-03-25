@@ -5,7 +5,7 @@
 
 -  I’m currently learning   **MERN Stack**
 
--  All of my projects are available [here](https://jomonhh.github.io/portfolio/)
+-  All of my projects are available [here](https://jomonhh.github.io/personal-portfolio/)
 
 -  Ask me about    : **GitHub**
 
