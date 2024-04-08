@@ -11,7 +11,7 @@
 
 -  Contact <a href="mailto:info.jomonh@gmail.com."> mail</a>
 
-- Here is my [CV](#)
+- Here is my [CV](https://github.com/Jomonhh/image-store-for-portfolio/blob/main/cv.pdf)
 
 
 <a href="https://linktr.ee/jomonh"><img align="center" width="400" height="150" src="https://github.com/Jomonhh/Jomonhh/blob/main/programming.gif"></a>
