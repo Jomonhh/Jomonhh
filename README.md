@@ -1,6 +1,9 @@
  <a href="https://jomonh.netlify.app/"><img src="https://github.com/Jomonhh/Jomonhh/blob/main/Banner.png"></a>
+ 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jomonhh&label=Profile%20views&color=0e75b6&style=flat" alt="Jomon" /> </p>
 
 <h1 align="center">Hi, I'm Jomon 🧑🏻‍💻</h1>
+
 <h3 align="center">A passionate full stack developer from India</h3>
 
 -  I’m currently learning   **MERN Stack**
@@ -14,7 +17,9 @@
 
 - Here is my [Resume](https://github.com/Jomonhh/Jomonhh/assets/146743628/4b5cf687-b90b-4433-b951-45891bb9801e)
 
-- Connect  with me : <br><br>[<img height="60" width="250" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/jomonh)
+- Connect  with me :<br> [<img height="30" width="120" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/jomonh)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jomonhh" alt="Jomon" /></a> </p>
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
