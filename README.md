@@ -1,4 +1,4 @@
-<img src="https://github.com/Jomonhh/Jomonhh/blob/main/Banner.png">
+<img src="https://github.com/Jomonhh/Jomonhh/blob/main/Assets/Banner.png">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jomonhh&label=Profile%20views&color=0e75b6&style=flat" alt="Jomon" /> </p>
 
@@ -24,18 +24,22 @@
 <br>
 <p align="center"><a href="https://github.com/Jomonhh" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=Jomonhh" target="_blank" alt="Jomon" /></a> </p>
 
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+## <div align="center"><img src = "https://github.com/Jomonhh/Jomonhh/blob/main/Assets/Coder.gif" width = 40px> Skills:
+  </div>
 
-<h2 align="center">Languages-Frameworks-Tools 💻</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,c,html,css,javascript,typescript,tailwind,bootstrap" /><br>
     <img src="https://skillicons.dev/icons?i=react,redux,angular,nodejs,nextjs,express,django,mysql" /><br>
     <img src="https://skillicons.dev/icons?i=mongodb,docker,kubernetes,git,github,vscode,netlify,firebase" />
 </div>
-<hr>
+<br><br>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <div align="center">⚙️ GitHub Profile Stats:
+  </div>
 <br>
 
 <div align="center">
