@@ -1,9 +1,9 @@
 <img src="https://github.com/Jomonhh/Jomonhh/blob/main/Assets/Banner.png">
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jomonhh&label=Profile%20views&color=2877f4&style=flat" alt="Jomon" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jomonhh&label=Profile%20views&color=62dafc&style=flat" alt="Jomon" /> </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&&&color=4493f7&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There+!+;+I'm+Jomon+Joy+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&&&color=62dafc&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There+!+;+I'm+Jomon+Joy+!;" />
 </h1>
 
 
@@ -31,10 +31,12 @@
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,c,html,css,javascript,typescript,tailwind,bootstrap" /><br>
-    <img src="https://skillicons.dev/icons?i=react,redux,angular,nodejs,nextjs,express,django,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=mongodb,docker,kubernetes,git,github,vscode,netlify,firebase" />
+    <img src="https://skillicons.dev/icons?i=python,c,html,css,javascript,typescript" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,react,redux,angular,nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=nextjs,express,django,mysql,mongodb,docker" /><br>
+ <img src="https://skillicons.dev/icons?i=kubernetes,git,github,vscode,netlify,firebase" />
 </div>
+
 <br><br>
 
 <img src="https://raw.githubusercontent.com/Jomonhh/Jomonhh/main/Assets/horizontal%20line%20.gif"><br>
@@ -42,9 +44,9 @@
 ## <div align="center">⚙️ GitHub Profile Stats:
   </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jomonhh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"  width="400" height="150"  alt="stats graph"  />
-<img src="https://streak-stats.demolab.com?user=Jomonhh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" width="400" height="150"  alt="streak graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jomonhh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="400" height="150"  alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=Jomonhh&theme=react&show_icons=true&hide_border=true&count_private=true"  width="400" height="150"  alt="stats graph"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jomonhh&theme=react&hide_border=true" width="400" height="150"  alt="streak graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jomonhh&theme=react&show_icons=true&hide_border=true&layout=compact" width="400" height="150"  alt="languages graph"  />
 </div>
 
 <img src="https://raw.githubusercontent.com/Jomonhh/Jomonhh/main/Assets/horizontal%20line%20.gif">
