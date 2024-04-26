@@ -1,9 +1,9 @@
 <img src="https://github.com/Jomonhh/Jomonhh/blob/main/Assets/Banner.png">
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jomonhh&label=Profile%20views&color=0e75b6&style=flat" alt="Jomon" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jomonhh&label=Profile%20views&color=2877f4&style=flat" alt="Jomon" /> </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&&&color=fff&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+;+I'm+Jomon+Joy+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&&&color=4493f7&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There+!+;+I'm+Jomon+Joy+!;" />
 </h1>
 
 
