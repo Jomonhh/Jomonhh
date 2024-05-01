@@ -1,6 +1,6 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jomonhh&label=Profile%20views&color=808080&style=flat" alt="Jomon" /> </p>
+
 <img src="https://github.com/Jomonhh/Jomonhh/blob/main/Assets/Programmer.gif">
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jomonhh&label=Profile%20views&color=62dafc&style=flat" alt="Jomon" /> </p>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&&&color=62dafc&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There+!+;+I'm+Jomon+Joy+!;" />
