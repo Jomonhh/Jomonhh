@@ -1,4 +1,4 @@
-<img src="https://github.com/Jomonhh/Jomonhh/blob/main/Assets/Header.png">
+<img src="https://github.com/Jomonhh/Jomonhh/blob/main/Assets/Programmer.png">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jomonhh&label=Profile%20views&color=62dafc&style=flat" alt="Jomon" /> </p>
 
