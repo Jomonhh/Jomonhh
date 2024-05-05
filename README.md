@@ -1,7 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jomonhh&label=Profile%20views&color=808080&style=flat" alt="Jomon" /> </p>
 
-<img src="https://github.com/Jomonhh/Jomonhh/blob/main/Assets/Programmer.gif">
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&&&color=62dafc&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There+!+;+I'm+Jomon+Joy+!;" />
 </h1>
@@ -13,15 +11,20 @@
 
 -  All of my **projects** are available <a a href="https://jomonh.netlify.app/" target="_blank">**here**</a>
 
+<img src="https://github.com/Jomonhh/Jomonhh/blob/main/Assets/Programmer.gif" height="100" width="93" align="right"/>
+
 -  Ask me about    : **GitHub**
+
 
 -  Here is my <a href="mailto:info.jomonh@gmail.com." target="_blank"> **Email**</a>
 
 
 - Check my <a href="https://github.com/Jomonhh/Jomonhh/assets/146743628/4b5cf687-b90b-4433-b951-45891bb9801e" target="_blank">**Resume**</a>
 
-- Connect  with me :<br><a href="https://linkedin.com/in/jomonh" target="_blank" > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+
+- Connect  with me on <a href="https://www.linkedin.com/in/jomonh" target="_blank">**Linkedin**</a>
 <br>
+
 <p align="center"><a href="https://github.com/Jomonhh" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=Jomonhh" target="_blank" alt="Jomon" /></a> </p>
 
 <img src="https://raw.githubusercontent.com/Jomonhh/Jomonhh/main/Assets/horizontal%20line%20.gif"><br>
