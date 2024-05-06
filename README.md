@@ -4,14 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&&&color=62dafc&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There+!+;+I'm+Jomon+Joy+!;" />
 </h1>
 
-
 <h3 align="center">A passionate full stack developer from India</h3>
+
+<img src="https://github.com/Jomonhh/Jomonhh/blob/main/Assets/Programmer.gif" height="250" width="350" align="right"/>
 
 -  I’m currently learning   **MERN Stack**
 
+
 -  All of my **projects** are available <a a href="https://jomonh.netlify.app/" target="_blank">**here**</a>
 
-<img src="https://github.com/Jomonhh/Jomonhh/blob/main/Assets/Programmer.gif" height="100" width="93" align="right"/>
 
 -  Ask me about    : **GitHub**
 
@@ -29,7 +30,7 @@
 
 <img src="https://raw.githubusercontent.com/Jomonhh/Jomonhh/main/Assets/horizontal%20line%20.gif"><br>
 
-## <div align="center"><img src = "https://github.com/Jomonhh/Jomonhh/blob/main/Assets/Coder.gif" width = 40px> Skills:
+## <div align="center"><img src = "https://github.com/Jomonhh/Jomonhh/blob/main/Assets/Coder.gif" width = 35px> Skills:
   </div>
 
 <br/>
