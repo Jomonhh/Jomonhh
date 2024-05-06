@@ -1,12 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jomonhh&label=Profile%20views&color=808080&style=flat" alt="Jomon" /> </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&&&color=62dafc&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There+!+;+I'm+Jomon+Joy+!;" />
+<img src="https://github.com/Jomonhh/Jomonhh/blob/main/Assets/Programmer.gif" height="155" width="200" align="middle"/>    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&&&color=62dafc&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There+!+;+I'm+Jomon+Joy+!;" />
 </h1>
 
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<img src="https://github.com/Jomonhh/Jomonhh/blob/main/Assets/Programmer.gif" height="250" width="350" align="right"/>
 
 -  I’m currently learning   **MERN Stack**
 
