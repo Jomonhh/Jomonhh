@@ -35,9 +35,11 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript" /><br>
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,react,redux,angular,nodejs" /><br>
-    <img src="https://skillicons.dev/icons?i=nextjs,express,mysql,mongodb,docker" /><br>
- <img src="https://skillicons.dev/icons?i=kubernetes,git,github,vscode,netlify,firebase" />
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,react,redux,angular" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,express,mysql,mongodb"/><br>
+ <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,firebase" />
+  <img
+    src="https://skillicons.dev/icons?i=spring" /><br>
 </div>
 
 <br><br>
