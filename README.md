@@ -26,7 +26,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%2320232a.svg?style=normal&logo=linkedIn&logoColor=%230077B5)](https://www.linkedin.com/in/jomonh)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%2320232a.svg?style=normal&logo=LeetCode&logoColor=%FFA116)](https://leetcode.com/u/Jomonh/)
 
-<p align="center"><a href="https://github.com/Jomonhh" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=Jomonhh" target="_blank" alt="Jomon" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Jomonhh" target="_blank" alt="Jomon" /> </p>
 
 <img src="https://raw.githubusercontent.com/Jomonhh/Jomonhh/main/Assets/horizontal%20line%20.gif"><br>
 
