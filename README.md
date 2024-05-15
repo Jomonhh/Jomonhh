@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jomonhh&label=Profile%20views&color=808080&style=flat" alt="Jomon" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jomonhh&label=Profile%20views&color=707070&style=flat" alt="Jomon" /> </p>
 
 <h1 align="center">
 <img src="https://github.com/Jomonhh/Jomonhh/blob/main/Assets/Programmer.gif" height="155" width="200" align="middle"/>  <br>  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&&&color=62dafc&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There+!+;+I'm+Jomon+Joy+!;" />
@@ -22,8 +22,9 @@
 - Check my <a href="https://github.com/Jomonhh/Jomonhh/assets/146743628/4b5cf687-b90b-4433-b951-45891bb9801e" target="_blank">**Resume**</a>
 
 
-- Connect  with me on <a href="https://www.linkedin.com/in/jomonh" target="_blank">**Linkedin**</a>
-<br>
+- Connect  with me on <br>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%2320232a.svg?style=normal&logo=linkedIn&logoColor=%230077B5)](https://www.linkedin.com/in/jomonh)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%2320232a.svg?style=normal&logo=LeetCode&logoColor=%FFA116)](https://leetcode.com/u/Jomonh/)
 
 <p align="center"><a href="https://github.com/Jomonhh" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=Jomonhh" target="_blank" alt="Jomon" /></a> </p>
 
