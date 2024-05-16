@@ -39,12 +39,9 @@
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript" /><br>
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,react,redux,angular" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,express,mysql,mongodb"/><br>
- <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,firebase" />
-  <img
-    src="https://skillicons.dev/icons?i=spring" /><br>
+    <img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript,tailwind,bootstrap,react,redux,angular,spring" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,express,mysql,mongodb,docker,kubernetes,git,github,firebase"/>
+  
 </div>
 
 
@@ -55,7 +52,8 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Jomonhh&theme=react&show_icons=true&hide_border=true&count_private=true"  width="400" height="150"  alt="stats graph"  />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jomonhh&theme=react&hide_border=true" width="400" height="150"  alt="streak graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jomonhh&theme=react&show_icons=true&hide_border=true&layout=compact" width="400" height="150"  alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jomonhh&theme=react&show_icons=true&hide_border=true&layout=compact" width="400" height="150"   alt="languages graph"  />
+
 </div>
 
 <img src="https://raw.githubusercontent.com/Jomonhh/Jomonhh/main/Assets/horizontal%20line%20.gif">
