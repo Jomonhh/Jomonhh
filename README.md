@@ -28,6 +28,10 @@
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Jomonhh" target="_blank" alt="Jomon" /> </p>
 
+```
+  01000101 01110110 01101111 01101100 01110110 01100101 00100000 01101111 01110010 00100000 01110010 01100101 01110000 01100101 01100001 01110100 00101110 
+
+```
 <img src="https://raw.githubusercontent.com/Jomonhh/Jomonhh/main/Assets/horizontal%20line%20.gif"><br>
 
 ## <div align="center"><img src = "https://github.com/Jomonhh/Jomonhh/blob/main/Assets/Coder.gif" width = 35px> Skills:
