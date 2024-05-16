@@ -43,7 +43,6 @@
     src="https://skillicons.dev/icons?i=spring" /><br>
 </div>
 
-<br><br>
 
 <img src="https://raw.githubusercontent.com/Jomonhh/Jomonhh/main/Assets/horizontal%20line%20.gif"><br>
 
