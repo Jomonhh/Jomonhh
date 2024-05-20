@@ -7,13 +7,13 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 
--  I’m currently learning   **MERN Stack**
+-  I’m currently learning   **MERN Stack** 
 
 
 -  All of my **projects** are available <a a href="https://jomonh.netlify.app/" target="_blank">**here**</a>
 
 
--  Ask me about    : **GitHub**
+-  Ask me about    : **`GitHub`**
 
 
 -  Here is my <a href="mailto:info.jomonh@gmail.com." target="_blank"> **Email**</a>
