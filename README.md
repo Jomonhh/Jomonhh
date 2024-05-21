@@ -34,7 +34,7 @@
 ```
 <img src="https://raw.githubusercontent.com/Jomonhh/Jomonhh/main/Assets/horizontal%20line%20.gif"><br>
 
-## <div align="center"><img src = "https://github.com/Jomonhh/Jomonhh/blob/main/Assets/Coder.gif" width = 35px> Skills:
+## <div align="center"><img src = "https://github.com/Jomonhh/Jomonhh/blob/main/Assets/Coder.gif" width = 35px> Skills :
   </div>
 
 <br/>
@@ -44,19 +44,22 @@
   <img src="https://skillicons.dev/icons?i=mongodb,docker,kubernetes,git,github,firebase"/>
 </div>
 
-
-<img src="https://raw.githubusercontent.com/Jomonhh/Jomonhh/main/Assets/horizontal%20line%20.gif"><br>
-
-## <div align="center">⚙️ GitHub Profile Stats:
+## <div align="center">⚙️ GitHub Profile Stats :
   </div>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Jomonhh&theme=react&show_icons=true&hide_border=true&count_private=true"  width="400" height="150"  alt="stats graph"  />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jomonhh&theme=react&hide_border=true" width="400" height="150"  alt="streak graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jomonhh&theme=react&show_icons=true&hide_border=true&layout=compact" width="400" height="150"   alt="languages graph"  />
-
 </div>
 
-<img src="https://raw.githubusercontent.com/Jomonhh/Jomonhh/main/Assets/horizontal%20line%20.gif">
+## Work's that I done :
 
+| **Project** | **things used in it** 	|
+|---	|---	|
+| Weather app	| Html,Css,Javascript and OpenWeatherMap Api|
+| ToDo list 	| Html, Css & JavaScript |
+| Car rental system 	| Java 	|
+| Digital Clock 	| Html, Css & Javascript 	|
+<br>
 
-
+```Thanks for visiting...```
