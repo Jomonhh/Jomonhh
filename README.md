@@ -44,6 +44,8 @@
   <img src="https://skillicons.dev/icons?i=mongodb,docker,kubernetes,git,github,firebase"/>
 </div>
 
+---
+
 ## <div align="center">⚙️ GitHub Profile Stats :
   </div>
 <div align="center">
@@ -51,6 +53,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jomonhh&theme=react&hide_border=true" alt="streak graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jomonhh&theme=react&show_icons=true&hide_border=true&layout=compact" alt="languages graph"  />
 </div>
+
+---
 
 ## Work's that I done :
 
