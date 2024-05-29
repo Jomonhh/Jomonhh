@@ -62,13 +62,13 @@
   
 | Project | Repository|
 |---	|---	|
-| Portfolio | <a href="https://jomonh.netlify.app">https://jomonh.netlify.app</a>	|
-| Weather app |	<a href="https://github.com/Jomonhh/Weather-app">https://github.com/Jomonhh/Weather-app</a>|
-| ToDo list 	| <a href="https://github.com/Jomonhh/to-do-list">https://github.com/Jomonhh/to-do-list</a> |
-| Car rental system 	| <a href="https://github.com/Jomonhh/Car-Rental-System">https://github.com/Jomonhh/Car-Rental-System</a>	|
-| Calculator | <a href="https://github.com/Jomonhh/calculator">https://github.com/Jomonhh/calculator</a> |
-| Digital Clock | <a href="https://github.com/Jomonhh/Digital-Clock">https://github.com/Jomonhh/Digital-Clock</a>	|
-| Linktree | <a href="https://github.com/Jomonhh/Linktree-Clone">https://github.com/Jomonhh/Linktree-Clone</a> |
+| Portfolio | <a href="https://jomonh.netlify.app">View</a>	|
+| Weather app |	<a href="https://github.com/Jomonhh/Weather-app">View</a>|
+| ToDo list 	| <a href="https://github.com/Jomonhh/to-do-list">View</a> |
+| Car rental system 	| <a href="https://github.com/Jomonhh/Car-Rental-System">View</a>	|
+| Calculator | <a href="https://github.com/Jomonhh/calculator">View</a> |
+| Digital Clock | <a href="https://github.com/Jomonhh/Digital-Clock">View</a>	|
+| Linktree | <a href="https://github.com/Jomonhh/Linktree-Clone">View</a> |
 
 </div>
 
