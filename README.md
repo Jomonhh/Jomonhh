@@ -58,12 +58,15 @@
 
 ## Work's that I done :
 
-| **Project** | **things used in it** 	|
+| Project | Repository|
 |---	|---	|
-| Weather app	| Html,Css,Javascript and OpenWeatherMap Api|
-| ToDo list 	| Html, Css & JavaScript |
-| Car rental system 	| Java 	|
-| Digital Clock 	| Html, Css & Javascript 	|
+| Portfolio | <a href="https://jomonh.netlify.app/">View</a>	|
+| Weather app	|<a href="https://github.com/Jomonhh/Weather-app">View</a>|
+| ToDo list 	| <a href="https://github.com/Jomonhh/to-do-list">View</a> |
+| Car rental system 	| <a href="https://github.com/Jomonhh/Car-Rental-System">View</a>	|
+| Calculator | <a href="https://github.com/Jomonhh/calculator">View</a> |
+| Digital Clock | <a href="https://github.com/Jomonhh/Digital-Clock">View</a>	|
+| Linktree | <a href="https://github.com/Jomonhh/Linktree-Clone">View</a> |
 <br>
 
 ```Thanks for visiting...```
