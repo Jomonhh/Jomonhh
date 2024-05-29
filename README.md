@@ -46,27 +46,33 @@
 
 ---
 
-## <div align="center">⚙️ GitHub Profile Stats :
-  </div>
+## <div align="center">⚙ GitHub Profile Stats :
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jomonhh&theme=react&show_icons=true&hide_border=true&count_private=true" alt="stats graph"  />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jomonhh&theme=react&hide_border=true" alt="streak graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jomonhh&theme=react&show_icons=true&hide_border=true&layout=compact" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=Jomonhh&theme=react&show_icons=true&hide_border=true&count_private=true" alt="stats graph" width="400" /><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jomonhh&theme=react&hide_border=true" alt="streak graph" width="400"/><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jomonhh&theme=react&show_icons=true&hide_border=true&layout=compact" alt="languages graph" width="400" />
 </div>
 
 ---
 
-## Work's that I done :
+## <div align="center"> My Works</div>
 
+<div align="center">
+  
 | Project | Repository|
 |---	|---	|
-| Portfolio | <a href="https://jomonh.netlify.app/">View</a>	|
-| Weather app	|<a href="https://github.com/Jomonhh/Weather-app">View</a>|
-| ToDo list 	| <a href="https://github.com/Jomonhh/to-do-list">View</a> |
-| Car rental system 	| <a href="https://github.com/Jomonhh/Car-Rental-System">View</a>	|
-| Calculator | <a href="https://github.com/Jomonhh/calculator">View</a> |
-| Digital Clock | <a href="https://github.com/Jomonhh/Digital-Clock">View</a>	|
-| Linktree | <a href="https://github.com/Jomonhh/Linktree-Clone">View</a> |
+| Portfolio | <a href="https://jomonh.netlify.app">https://jomonh.netlify.app</a>	|
+| Weather app |	<a href="https://github.com/Jomonhh/Weather-app">https://github.com/Jomonhh/Weather-app</a>|
+| ToDo list 	| <a href="https://github.com/Jomonhh/to-do-list">https://github.com/Jomonhh/to-do-list</a> |
+| Car rental system 	| <a href="https://github.com/Jomonhh/Car-Rental-System">https://github.com/Jomonhh/Car-Rental-System</a>	|
+| Calculator | <a href="https://github.com/Jomonhh/calculator">https://github.com/Jomonhh/calculator</a> |
+| Digital Clock | <a href="https://github.com/Jomonhh/Digital-Clock">https://github.com/Jomonhh/Digital-Clock</a>	|
+| Linktree | <a href="https://github.com/Jomonhh/Linktree-Clone">https://github.com/Jomonhh/Linktree-Clone</a> |
+
+</div>
+
 <br>
 
+                                                 
 ```Thanks for visiting...```
