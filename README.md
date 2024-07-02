@@ -4,7 +4,7 @@
 <img src="https://github.com/Jomonhh/Jomonhh/blob/main/Assets/Programmer.gif" height="155" width="200" align="middle"/>  <br>  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&&&color=62dafc&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There+!+;+I'm+Jomon+Joy+!;" />
 </h1>
 
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 
 -  I’m currently learning   **MERN Stack** 
@@ -22,7 +22,7 @@
 - Check my <a href="https://github.com/Jomonhh/Jomonhh/assets/146743628/4b5cf687-b90b-4433-b951-45891bb9801e" target="_blank">**Resume**</a>
 
 
-- Connect  with me on <br>
+- Connect me over <br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%2320232a.svg?style=normal&logo=linkedIn&logoColor=%230077B5)](https://www.linkedin.com/in/jomonh)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%2320232a.svg?style=normal&logo=LeetCode&logoColor=%FFA116)](https://leetcode.com/u/Jomonh/)
 
@@ -39,12 +39,12 @@
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,python,kotlin,html,css,javascript" />
-    <img src="https://skillicons.dev/icons?i=bootstrap,react,redux,nextjs,nodejs,express"/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,androidstudio,firebase"/>
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,typescript" />
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,react,redux,nextjs,nodejs"/>
+  <img src="https://skillicons.dev/icons?i=expressjs,mongodb,mysql,git,github,firebase"/>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/Jomonhh/Jomonhh/main/Assets/horizontal%20line%20.gif"><br>
 
 ## <div align="center">⚙ GitHub Profile Stats :
 
@@ -54,25 +54,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jomonhh&theme=react&show_icons=true&hide_border=true&layout=compact" alt="languages graph" width="400" />
 </div>
 
----
-
-## <div align="center"> My Works</div>
-
-<div align="center">
-  
-| Project | Repository|
-|---	|---	|
-| Portfolio | <a href="https://jomonh.netlify.app">View</a>	|
-| Weather app |	<a href="https://github.com/Jomonhh/Weather-app">View</a>|
-| ToDo list 	| <a href="https://github.com/Jomonhh/to-do-list">View</a> |
-| Car rental system 	| <a href="https://github.com/Jomonhh/Car-Rental-System">View</a>	|
-| Calculator | <a href="https://github.com/Jomonhh/calculator">View</a> |
-| Digital Clock | <a href="https://github.com/Jomonhh/Digital-Clock">View</a>	|
-| Linktree | <a href="https://github.com/Jomonhh/Linktree-Clone">View</a> |
-
-</div>
-
 <br>
-
-                                                 
+                                    
 ```Thanks for visiting...```
