@@ -10,7 +10,7 @@
 -  I’m currently learning   **MERN Stack** 
 
 
--  All of my **projects** are available <a a href="https://jomonh.vercel.com" target="_blank">**here**</a>
+-  All of my **projects** are available <a a href="https://jomon.vercel.com" target="_blank">**here**</a>
 
 
 -  Ask me about    : **`GitHub`**
