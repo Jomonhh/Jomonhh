@@ -19,7 +19,7 @@
 -  Here is my <a href="mailto:info.jomonh@gmail.com." target="_blank"> **Email**</a>
 
 
-- Check my <a href="https://github.com/Jomonh/Jomonh/assets/146743628/4b5cf687-b90b-4433-b951-45891bb9801e" target="_blank">**Resume**</a>
+- Check my <a href="https://github.com/Jomonh/Jomonh/blob/main/Assets/Jomon%20Joy(Resume).pdf" target="_blank">**Resume**</a>
 
 
 - Connect me over <br>
